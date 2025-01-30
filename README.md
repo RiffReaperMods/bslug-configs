@@ -1,1 +1,1 @@
-# bslug-configs
+Bslug .dol configs for Nintendo Wii
